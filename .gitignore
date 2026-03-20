@@ -3,8 +3,7 @@ target/
 build/
 .gradle/
 
-# Gradle wrapper jar (se regenera con ./gradlew wrapper)
-gradle/wrapper/gradle-wrapper.jar
+# Gradle wrapper jar debe versionarse para ejecutar ./gradlew en cualquier entorno
 
 # IDE
 .idea/

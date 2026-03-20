@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-@DefaultUrl("http://localhost:4200/autenticacion")
+@DefaultUrl("/autenticacion")
 public class LoginPage extends PageObject {
 
     @FindBy(id = "username")
